@@ -1,6 +1,6 @@
 # learning git and github
 
-'''python
-print("Hello world")
+'''c
+printf("Hello world")
 
 '''
